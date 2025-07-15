@@ -1,6 +1,6 @@
 {
   "name": "Minecraft Image Helper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "slug": "mc_helper",
   "description": "Hilfs-Tool für Minecraft Server mit mc-image-helper",
   "arch": ["amd64", "aarch64"],
