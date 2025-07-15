@@ -1,6 +1,3 @@
-repository-root/
-├── repository.yaml
-├── mc-helper/
-│   ├── config.json
-│   ├── Dockerfile
-│   └── run.sh
+name: Minecraft Tools
+url: "https://github.com/Grembild/hamc-helper"
+maintainer: "Grembold"
