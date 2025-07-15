@@ -1,0 +1,6 @@
+repository-root/
+├── repository.yaml
+├── mc-helper/
+│   ├── config.json
+│   ├── Dockerfile
+│   └── run.sh
