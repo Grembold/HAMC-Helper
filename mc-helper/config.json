@@ -1,6 +1,15 @@
-repository-root/
-├── repository.yaml
-├── mc-helper/
-│   ├── config.json
-│   ├── Dockerfile
-│   └── run.sh
+{
+  "name": "Minecraft Image Helper",
+  "version": "0.1.0",
+  "slug": "mc_helper",
+  "description": "Hilfs-Tool für Minecraft Server mit mc-image-helper",
+  "arch": ["amd64", "aarch64"],
+  "startup": "once",
+  "boot": "manual",
+  "init": false,
+  "host_network": false,
+  "privileged": [],
+  "options": {},
+  "schema": {},
+  "panel_icon": "mdi:minecraft"
+}
